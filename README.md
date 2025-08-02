@@ -1,0 +1,2 @@
+# EchoDx-Deep-Neural-Sound-Classification-for-Accurate-Lung-Disease-Diagnosis
+EchoDx is a deep learning model that detects lung diseases like COPD, Bronchiolitis, Pneumonia, URTI, and Healthy using respiratory sounds which are further converted into spectrogram. It combines MFCC and wavelet features with a CNN-BiLSTM model, attention, and data augmentation. Trained on the ICBHI dataset for accurate, non-invasive diagnosis.
